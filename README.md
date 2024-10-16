@@ -1,12 +1,12 @@
-# LeadGen Website (Major-Project)
+# EditKaro.in Website (Major-Project)
 
-This website was developed as my final major project during my internship at VaultofCodes. It brings to life the LeadGen Website, a social media marketing and video editing agency, with a clean, responsive design and interactive features.
+This website was developed as my final major project during my internship at VaultofCodes. It brings to life the EditKaro.in Website, a social media marketing and video editing agency, with a clean, responsive design and interactive features.
 
 
 ## 🌟 Demo
 
-- **Github:** https://madhav-a.github.io/VaultofCodes/
-- **Netlify:** https://leadgenwebsite.netlify.app
+- **Github:** https://github.com/Madhav-A/VaultofCodes.git
+- **Netlify:** https://editkarowebsite.netlify.app/
 
 
 ## 🚀 Features
