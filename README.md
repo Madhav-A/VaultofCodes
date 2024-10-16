@@ -5,7 +5,7 @@ This website was developed as my final major project during my internship at Vau
 
 ## 🌟 Demo
 
-- **Github:** https://github.com/Madhav-A/VaultofCodes.git
+- **Github:** https://madhav-a.github.io/VaultofCodes/
 - **Netlify:** https://editkarowebsite.netlify.app/
 
 
